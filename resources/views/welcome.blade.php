@@ -37,10 +37,10 @@ body{
 input{
     border-radius:5px;
     border:1px solid gray;
-    /* margin-left: 10px; */
     padding: 7px;
 }
 button{
+    font-family: 'Quicksand', sans-serif;
     background-color: rgb(77, 150, 252);
     border:none;
     border-radius:5px;
@@ -48,6 +48,7 @@ button{
     color: white;
     display: flex;
     margin-top:5px; 
+    
 }
 .content .btn{
     display: flex;
@@ -62,7 +63,7 @@ p{
 }
 
 button .search {
-   margin: 1px 5px 0px 0px; 
+   margin: 2px 5px 0px 0px; 
    font-size: 12px;
 }
 
