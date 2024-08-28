@@ -3,13 +3,12 @@
 }
 html{
     font-family: 'Quicksand', sans-serif;
-
 }
 body{
-    background-color:rgb(206, 80, 80);
+    background-color:rgb(250, 250, 250);
     display:flex;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
     min-height: 100vh;
     margin:0;
 }
@@ -30,11 +29,12 @@ input{
     padding: 7px;
 }
 button{
+    font-family: 'Quicksand', sans-serif;
     background-color: rgb(77, 150, 252);
     border:none;
     border-radius:5px;
     padding:8px;
-    color: rgb(185, 26, 26);
+    color: white;
     display: flex;
     margin-top:5px; 
     
