@@ -23,5 +23,8 @@
         <p>Ngày sinh:</p>
         <p>Giới tính:</p>
     </div>
+    <?php 
+    include "connect.php";
+    ?>
 </body>
 </html>
