@@ -15,7 +15,7 @@
         <input type="text">
         <div 
             class="btn"><button type="submit">
-                <i class="fas fa-search search" ></i>Tìm kiếm tiền
+                <i class="fas fa-search search" ></i>Tìm kiếm
             </button>
         </div>
         <p>Họ và tên:</p>
